@@ -16,7 +16,7 @@ Modular Telegram bot for managing your groups with a extras features with Hunter
 </p>
 
 ### Click Below Image to Deploy
-[![Deploy](https://telegra.ph/file/c369416053fbab65e4440.jpg@Evaelfffiebot)](https://heroku.com/deploy?template=https://github.com/piku-adhi/DUHO.git)
+[![Deploy](https://telegra.ph/file/c369416053fbab65e4440.jpg)](https://heroku.com/deploy?template=https://github.com/nikhilomanakuttan/DUHO)
 
 ### Configuration
 
