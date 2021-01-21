@@ -1,7 +1,6 @@
-### @Piku_Piku_bot // http://www.telegram.dog/Piku_Piku_bot
+### ΞV⋀ 
 > with HunterxHunter theme.
-
-[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/)  
+ 
 [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](http://perso.crans.org/besson/LICENSE.html)
 
 Modular Telegram bot for managing your groups with a extras features with HunterxHunter theme.
@@ -17,7 +16,7 @@ Modular Telegram bot for managing your groups with a extras features with Hunter
 </p>
 
 ### Click Below Image to Deploy
-[![Deploy](https://telegra.ph/file/48f109f213b0b453e4e3d.jpg)](https://heroku.com/deploy?template=https://github.com/piku-adhi/DUHO.git)
+[![Deploy](https://telegra.ph/file/c369416053fbab65e4440.jpg@Evaelfffiebot)](https://heroku.com/deploy?template=https://github.com/piku-adhi/DUHO.git)
 
 ### Configuration
 
