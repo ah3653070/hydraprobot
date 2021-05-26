@@ -49,11 +49,11 @@
       },      
       "OWNER_ID": {
          "description": "Your user ID as an integer.",
-         "value": "1777644370"
+         "value": "1488127132"
       },
       "OWNER_NAME": {
-         "description": "Your Name",
-         "value": "@esto_420"
+         "description": "master spider",
+         "value": "@Royalbotz"
       },
       "DEV_USERS": {
          "description": "ID of users who are Dev (can use /py etc.)",
@@ -75,7 +75,7 @@
       },
        "START_IMG": {
          "description": "Image shows when hit /start",
-         "value": "https://telegra.ph/file/3045588b3ecbfd54998b8.jpg"    
+         "value": "https://telegra.ph/file/e4021f36c81045e95faad.jpg"    
       },
       "API_OPENWEATHER": {
          "description": "Required for weather information",
@@ -98,12 +98,12 @@
       "SUDO_USERS": {
          "description": "A space separated list of user IDs who you want to assign as sudo users.",
          "required": false,
-         "value": "1777644370"
+         "value": "1488127132"
       },
       "SUPPORT_USERS": {
          "description": "A space separated list of user IDs who you wanna assign as support users(gban perms only).",
          "required": "True",
-         "value": "1777644370"
+         "value": "1488127132"
       },
      
       "TOKEN": {
@@ -124,7 +124,7 @@
       "WHITELIST_USERS": {
          "description": "A space separated list of user IDs who you want to assign as whitelisted - can't be banned with your bot.",
          "required": false,
-         "value": "1777644370"
+         "value": "1488127132"
       },
       "WALL_API":{
          "description": "Enter wall api",
@@ -142,11 +142,11 @@
       "weeb",
       "group",
       "manager",
-      "HydraProBot"
+      "Toomprobot"
       
    ],
-   "name": "HydraProBot",
-   "repository": "https://github.com/Zyruz-ramu/hydraprobot",
-   "success_url": "https://telegram.dog/HydraPro_bot",
-   "logo": "https://telegra.ph/file/3045588b3ecbfd54998b8.jpg"
+   "name": "toompro",
+   "repository": "https://github.com/Royalbotz/toombot",
+   "success_url": "https://telegram.dog/mrtoombot",
+   "logo": "https://telegra.ph/file/e4021f36c81045e95faad.jpg"
 }
