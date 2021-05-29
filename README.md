@@ -1,4 +1,4 @@
-### HydraProBot @poochhaa_bot
+### sharibot @sh_aribot
 > with HunterxHunter theme.[SUPPORT CHANNEL](https://t.me/tubots)
 
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/)  
@@ -16,8 +16,8 @@ Modular Telegram bot for managing your groups with a extras features with Hunter
   </a>
 </p>
 
-### Click Below Image to Deploy
-[![Deploy](https://telegra.ph/file/3045588b3ecbfd54998b8.jpg)](https://heroku.com/deploy?template=https://github.com/Zyruz-ramu/hydraprobot.git)
+### Royalbotz 
+[![Deploy](https://telegra.ph/file/01eb33ede56d806228d1c.jpg)](https://heroku.com/deploy?template=https://github.com/Zyruz-ramu/hydraprobot.git)
 
 ### Configuration
 
@@ -38,7 +38,7 @@ from HydraProBot.sample_config import Config
 
 class Development(Config):
     OWNER_ID = 1303191674  # my telegram ID
-    OWNER_USERNAME = "ram_jii"  # my telegram username
+    OWNER_USERNAME = "Botzmaker"  # my telegram username
     API_KEY = "your bot api key"  # my api key, as provided by the botfather
     SQLALCHEMY_DATABASE_URI = 'postgresql://username:password@localhost:5432/database'  # sample db credentials
     MESSAGE_DUMP = '-1234567890' # some group chat that your bot is a member of
