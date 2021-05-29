@@ -11,7 +11,7 @@ Modular Telegram bot for managing your groups with a extras features with Hunter
     <img src="https://img.shields.io/github/forks/Sur-vivor/CinderellaProBot?label=Fork&style=social">
     
   </a>
-  <a href="https://github.com/Zyruz-ramu/hydraprobot">
+  <a href="https://github.com/Ah3653070/hydraprobot">
     <img src="https://img.shields.io/github/stars/Sur-vivor/CinderellaProBot?style=social">
   </a>
 </p>
@@ -37,8 +37,8 @@ from HydraProBot.sample_config import Config
 
 
 class Development(Config):
-    OWNER_ID = 1303191674  # my telegram ID
-    OWNER_USERNAME = "ram_jii"  # my telegram username
+    OWNER_ID = 1476538597  # my telegram ID
+    OWNER_USERNAME = "Botzmaker"  # my telegram username
     API_KEY = "your bot api key"  # my api key, as provided by the botfather
     SQLALCHEMY_DATABASE_URI = 'postgresql://username:password@localhost:5432/database'  # sample db credentials
     MESSAGE_DUMP = '-1234567890' # some group chat that your bot is a member of
