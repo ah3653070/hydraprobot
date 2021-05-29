@@ -1,5 +1,5 @@
-### HydraProBot @poochhaa_bot
-> with HunterxHunter theme.[SUPPORT CHANNEL](https://t.me/tubots)
+### sh_aribot @sh_aribot
+> with HunterxHunter theme.[SUPPORT CHANNEL](https://t.me/Royalbotz)
 
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/)  
 [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](http://perso.crans.org/besson/LICENSE.html)
@@ -16,8 +16,8 @@ Modular Telegram bot for managing your groups with a extras features with Hunter
   </a>
 </p>
 
-### Click Below Image to Deploy
-[![Deploy](https://telegra.ph/file/3045588b3ecbfd54998b8.jpg)](https://heroku.com/deploy?template=https://github.com/Zyruz-ramu/hydraprobot.git)
+### Click Royalbotz Image to Deploy
+[![Deploy](https://telegra.ph/file/01eb33ede56d806228d1c.jpg)](https://heroku.com/deploy?template=https://github.com/Ah3653070/hydraprobot.git)
 
 ### Configuration
 
