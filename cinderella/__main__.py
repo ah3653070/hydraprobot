@@ -29,7 +29,7 @@ from cinderella.modules.connection import connect_button
 PM_START_TEXT = """
 _Hello_ *{}*
 _My name is_ *{}*\n_A POWER FULL BOT FOR \n GROUP MANEGEMENT. [ /help ] for All commands available on this bot. THIS BOT IS MAINTAID BY_
-[{}](https://t.me/nimmi_hydrasupport)"""
+[{}](https://t.me/botmakingchat)"""
 
 
 HELP_STRINGS = """
@@ -71,7 +71,7 @@ GDPR = []
 
 START_IMG = os.environ.get('START_IMG', None)
 if START_IMG is None:
-    img = "https://telegra.ph/file/3045588b3ecbfd54998b8.jpg"
+    img = "https://telegra.ph/file/381b33ccf2ba33586cb88.jpg"
 
   
 else:
@@ -277,7 +277,7 @@ def get_help(bot: Bot, update: Update):
         update.effective_message.reply_text("Contact me in PM to get the list of possible commands.",
                                             reply_markup=InlineKeyboardMarkup(
                                                 [[InlineKeyboardButton(text="⚔Help⚔",url="t.me/{}?start=help".format(bot.username))],  
-                                                [InlineKeyboardButton(text="Contact Creator",url="https://t.me/esto_420")]]))
+                                                [InlineKeyboardButton(text="Contact Creator",url="https://t.me/Royalbotz")]]))
         return
 
     elif len(args) >= 2 and any(args[1].lower() == x for x in HELPABLE):
