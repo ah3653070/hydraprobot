@@ -29,7 +29,7 @@ from cinderella.modules.connection import connect_button
 PM_START_TEXT = """
 _Hello_ *{}*
 _My name is_ *{}*\n_A POWER FULL BOT FOR \n GROUP MANEGEMENT. [ /help ] for All commands available on this bot. THIS BOT IS MAINTAID BY_
-[{}](https://t.me/botmakingchat)"""
+[{}](https://t.me/tgbot_store)"""
 
 
 HELP_STRINGS = """
